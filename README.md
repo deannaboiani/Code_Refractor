@@ -4,7 +4,7 @@ https://deannaboiani.github.io/Code_Refractor/
 
 ## Accessibility and Semantics clean-up for Horiseon Marketing
 
-## The purpose of this project was to make a codenase that follows accessibility standards so that the site is optimized for search engines laid out  in the objectives below.
+## The purpose of this project was to make a codebase that follows accessibility standards so that the site is optimized for search engines laid out  in the objectives below.
 
 - The source code has semantic HTML elements
 
